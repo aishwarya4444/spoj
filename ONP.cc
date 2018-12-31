@@ -1,3 +1,5 @@
+// http://www.spoj.com/problems/ONP/
+
 #include<iostream>
 #include<cstring>
 #include<stack>
